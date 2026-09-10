@@ -75,3 +75,6 @@ yarn-error.log*
 !backend/data/results/final_benchmark/figures/*
 
 backend/data/results/
+
+# Local backup
+backend/requirements.txt.backup
